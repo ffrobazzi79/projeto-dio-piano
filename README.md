@@ -51,11 +51,6 @@ Virtual Piano/
 ├── README.md              # Documentação do projeto
 └── demo-image.png         # Imagem de demonstração do piano
 ```
-
-## 🖼️ Preview
-
-![Virtual Piano Preview](https://via.placeholder.com/800x400.png?text=Virtual+Piano)
-
 ## 🧑‍💻 Tecnologias utilizadas
 
 - **HTML5**: Estrutura básica do projeto.
